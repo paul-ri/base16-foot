@@ -1,0 +1,6 @@
+default:
+  extension: .ini
+  output: themes
+default-256:
+  extension: -256.ini
+  output: themes
